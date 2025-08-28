@@ -1,0 +1,7 @@
+The usage of branches is a safety measure or redundancy to prevent merging complications when multiple software engineers work on the same project. 
+Since branches are seperate or isolated from the main code, any changes can be made without needing to communicate with the rest of the team.
+Once all software engineers have time to meet, they can ensure that everyone is working at the same time without the risk of error, as it creates a preventative measure.
+
+When I first began using Git in high school, I was not familiar with branches were, and team kept running into merging issues that made the code not function properly.
+If I knew what branches were, it would allow my team to work stress free about changing code without needing to coordinate every single time, as we could make sure we prevent problems.
+Plus, without the risk or concern of merging issues, we could have worked more efficiently and completed more of our project in parallel without needing to scramble near the deadline.
